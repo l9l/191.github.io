@@ -1,5 +1,5 @@
 ---
-title: 16/1/17 Blogpost
+title: IT lesson 3
 layout: post
 author: felix.warry
 permalink: /using-GitHub/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>IT lesson 1</td>
+    <td>IT lesson 3</td>
     <td>Date</td>
-    <td>16/01/17</td>
+    <td>23/01/17</td>
   </tr>
 </table>
 
