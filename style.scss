@@ -24,6 +24,16 @@ body {
   color: #ffa31a;
 }
 
+table {
+	width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+
 .container {
   margin: 0 auto;
   max-width: 740px;
