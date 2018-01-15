@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Year 9 blogger. Loves Shrek and basketball
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Support Cleveland Cavs
 
 ### Contact me
 
